@@ -1,0 +1,9 @@
+dataset,rows,cam_in_path,cam_mismatch,subject_in_path,subject_mismatch,recordings,streams,cams_per_recording
+GMDCSA24,458,0,0,458,0,160,160,1.0
+OOPS,4022,0,0,0,0,818,818,1.0
+caucafall,258,0,0,258,0,100,100,1.0
+edf,505,505,0,0,0,5,10,2.0
+le2i,967,0,0,0,0,190,190,1.0
+mcfd,1352,1352,0,0,0,24,192,8.0
+occu,484,484,0,0,0,5,10,2.0
+up_fall,2422,2422,0,2422,0,559,1118,2.0

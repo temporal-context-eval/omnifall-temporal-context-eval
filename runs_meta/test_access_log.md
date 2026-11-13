@@ -1,0 +1,2 @@
+| 2026-11-09 19:07:48 | staged_test, oops_test | 21 조건 | design_freeze sha256 c9836c5daa638d37c338234de8fdc7d79851b04906f5cb85761d239ec13687e3 | 13_train_eval.py 217362a00b2957da | 최초 1회 |
+| 2026-11-12 17:06:05 | staged_test(기준·전 스트림), oops_test | 21 조건 | design_freeze sha256 c9836c5daa638d37c338234de8fdc7d79851b04906f5cb85761d239ec13687e3 | 14_analysis.py 388953994b128c2c | 재접근: 교정본 C·D·F 보조·사후 분석용 점수 저장. 모델·임계값·W 불변 |
